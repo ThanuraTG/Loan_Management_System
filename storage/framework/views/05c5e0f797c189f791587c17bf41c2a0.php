@@ -1,0 +1,1 @@
+<?php echo $__env->make(backpack_view('auth.register.' . backpack_theme_config('auth_layout')), array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?><?php /**PATH C:\Users\Thanura Thilak\OneDrive\Desktop\new project\long-management-system\vendor/backpack/theme-tabler/resources/views/auth/register.blade.php ENDPATH**/ ?>
